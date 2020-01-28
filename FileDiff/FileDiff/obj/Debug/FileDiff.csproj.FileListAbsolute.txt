@@ -1,0 +1,9 @@
+c:\users\vikas\documents\visual studio 2015\Projects\FileDiff\FileDiff\bin\Debug\FileDiff.exe.config
+c:\users\vikas\documents\visual studio 2015\Projects\FileDiff\FileDiff\bin\Debug\FileDiff.exe
+c:\users\vikas\documents\visual studio 2015\Projects\FileDiff\FileDiff\bin\Debug\FileDiff.pdb
+c:\users\vikas\documents\visual studio 2015\Projects\FileDiff\FileDiff\obj\Debug\FileDiff.csprojResolveAssemblyReference.cache
+c:\users\vikas\documents\visual studio 2015\Projects\FileDiff\FileDiff\obj\Debug\FileDiff.Diversity.resources
+c:\users\vikas\documents\visual studio 2015\Projects\FileDiff\FileDiff\obj\Debug\FileDiff.Properties.Resources.resources
+c:\users\vikas\documents\visual studio 2015\Projects\FileDiff\FileDiff\obj\Debug\FileDiff.csproj.GenerateResource.Cache
+c:\users\vikas\documents\visual studio 2015\Projects\FileDiff\FileDiff\obj\Debug\FileDiff.exe
+c:\users\vikas\documents\visual studio 2015\Projects\FileDiff\FileDiff\obj\Debug\FileDiff.pdb
